@@ -11,6 +11,19 @@ I have also worked on various tasks such as creating a whole ML pipeline from sc
 
 
 
+<img align="right" alt="GIF" src="https://github.com/p-sachin/p-sachin/blob/main/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on a project global development stat analysis on different sectors. <br>
+- 🚀 I spent most of my free time reading articles, trying to learn new things, thinking about new project ideas. <br>
+- 🏖️ Besides coding, I like playing guitar and exploring new places. <br>
+- 📫 How to reach me: sachinwork33@gmail.com. <br>
+- 📝 [Resume]()
+
+</br>
+
 
 📈 **My GitHub Stats:**
 
