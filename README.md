@@ -50,8 +50,8 @@ I have also worked on various tasks such as creating a whole ML pipeline from sc
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=p-sachin&hide=issues&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sachin&hide=scss,less&exclude_repo=strive-ai-main,ComputerVision_Projects&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=p-sachin&hide=issues&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sachin&hide=scss,less&exclude_repo=strive-ai-main,ComputerVision_Projects&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
 </p>
 
 
