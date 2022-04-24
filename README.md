@@ -55,6 +55,3 @@ I have also worked on various tasks such as creating a whole ML pipeline from sc
 </p>
 
 
-<br>
-
-
