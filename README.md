@@ -10,8 +10,7 @@ I’m an AI engineer experienced in python, across a wide field of interests. Es
 I have also worked on various tasks such as creating a whole ML pipeline from scratch and built projects which involve NLP, Time Series Analysis, Computer Vision, and deployment of machine/deep learning models. My educational qualifications include a master's degree in computer science from Blekinge Institute of Technology.
 
 
-
-<img align="right" alt="GIF" src="https://github.com/p-sachin/p-sachin/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/p-sachin/p-sachin/blob/main/giphy.gif?raw=true" width="408" height="300" />
   
 
 **Talking about Personal Stuffs:**
@@ -24,6 +23,8 @@ I have also worked on various tasks such as creating a whole ML pipeline from sc
 
 </br>
 <br>
+<br>
+
 
 💻 **Technical Skills**
 
