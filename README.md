@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sachin-pokharel-493716197)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ellefsonmanutd)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ellefson.sachin/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/ellefson.sachin)
 
 
 I’m an AI engineer experienced in python, across a wide field of interests. Especially on data analysis, data visualization, core machine learning (regressions, classification, etc), along with good knowledge in deep learning. 
