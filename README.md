@@ -16,7 +16,7 @@ I work on various tasks such as creating a whole ML pipeline from scratch and bu
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I spent most of my free time reading articles, trying to learn new things, thinking about new project ideas. <br>
+- 🚀 I spent most of my free time reading articles/blogs, trying to learn new things, thinking about new project ideas. <br>
 - 🏖️ Besides coding, I like playing guitar and exploring new places. <br>
 - 📫 How to reach me: sachinwork33@gmail.com. <br>
 - 📝 Check my [Resume](https://drive.google.com/file/d/1CYpJuc7izjm2rlYontHTjpPTcl_VrB6l/view?usp=share_link)
